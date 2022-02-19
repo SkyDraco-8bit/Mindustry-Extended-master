@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "Mindustry DLC (non official)"
+
+#the internal name of your mod
+name: "dlc"
+
+#your name
+author: "Jeap"
+
+#the fully qualified main class of the mod
+main: "main.DLC"
+
+#the mod description as seen in the mod dialog
+description: "A Mindustry Java mod attempt."
+
+#the mod version
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 135
+
+#this is a java mod
+java: true
